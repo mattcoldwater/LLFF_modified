@@ -1,3 +1,5 @@
+# all credit to https://github.com/Fyusion/LLFF
+
 <img src='imgs/output6_120.gif' align="right" height="120px">
 
 <br><br><br><br>
