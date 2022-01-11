@@ -9,7 +9,7 @@ parser.add_argument('--match_type', type=str,
 parser.add_argument('--dense', action='store_true')
 parser.add_argument('--colmap_dir', type=str, default='/content/drive/My Drive/nerfies/captures/pizza_salad/colmap/1x',
 					help='input scene directory')
-parser.add_argument('--rgb_dir', type=str, default='/content/drive/My Drive/nerfies/captures/pizza_salad/rgb/1x',
+parser.add_argument('--img_dir', type=str, default='/content/drive/My Drive/nerfies/captures/pizza_salad/rgb/1x',
 					help='input scene directory')
 args = parser.parse_args()
 
